@@ -1,0 +1,6 @@
+@inproceedings{REPO325,
+    author = "Zhou, Honglu and Xu, Shuyuan and Fu, Zuohui and de Melo, Gerard and Zhang, Yongfeng and Kapadia, Mubbasir",
+    booktitle = "IJCAI",
+    title = "{{HID: Hierarchical Multiscale Representation Learning for Information Diffusion}}",
+    year = "2020"
+}
